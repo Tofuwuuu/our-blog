@@ -1,0 +1,17 @@
+/* public/css/about.css */
+
+.about-container {
+    margin-top: 20px;
+}
+
+.about-image {
+    width: 150px; /* Set a consistent size for the images */
+    height: 150px;
+    object-fit: cover; /* Ensure the images cover the circle without distortion */
+}
+
+.about-text {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555; /* Slightly lighter color for the text */
+}
